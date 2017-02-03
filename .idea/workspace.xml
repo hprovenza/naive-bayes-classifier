@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77492897-bf61-4c80-a706-88dd92d9140d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-gender-dataset.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/classifier.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corpus.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/naive_bayes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/names/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/names/female.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/names/male.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_classifier.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_naive_bayes.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/naive-bayes-classifier" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="naive-bayes-classifier.iws" />
@@ -36,7 +27,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_naive_bayes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_naive_bayes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_naive_bayes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -46,11 +37,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="COSI134-PA1-checkpoint.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/COSI134-PA1-checkpoint.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="69" column="0" selection-start-line="69" selection-start-column="1" selection-end-line="70" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -571,14 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.ipynb_checkpoints/COSI134-PA1-checkpoint.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -654,6 +638,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="1" selection-end-line="70" selection-end-column="19" />
           <folding />
         </state>
       </provider>

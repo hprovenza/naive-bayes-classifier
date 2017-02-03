@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77492897-bf61-4c80-a706-88dd92d9140d" name="Default" comment="" />
+    <list default="true" id="77492897-bf61-4c80-a706-88dd92d9140d" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/COSI134-PA1-checkpoint.ipynb" afterPath="$PROJECT_DIR$/README.ipynb" />
+    </list>
     <ignored path="naive-bayes-classifier.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -44,8 +46,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="COSI134-PA1-checkpoint.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/COSI134-PA1-checkpoint.ipynb">
+      <file leaf-file-name="README.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="-1" />
@@ -625,7 +627,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COSI134-PA1-checkpoint.ipynb">
+    <entry file="file://$PROJECT_DIR$/README.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="-1" />
